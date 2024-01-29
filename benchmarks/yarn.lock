@@ -809,7 +809,36 @@ autocannon-compare@^0.4.0:
   dependencies:
     ttest "^2.0.0"
 
-autocannon@^7.0.1, autocannon@^7.5.0:
+autocannon@^7.14.0:
+  version "7.14.0"
+  resolved "https://registry.yarnpkg.com/autocannon/-/autocannon-7.14.0.tgz#3843f2dd44a02973d36b56dd3199a20b8e97c319"
+  integrity sha512-lusP43BAwrTwQhihLjKwy7LceyX01eKSvFJUsBktASGqcR1g1ySYSPxCoCGDX08uLEs9oaqEKBBUFMenK3B3lQ==
+  dependencies:
+    chalk "^4.1.0"
+    char-spinner "^1.0.1"
+    cli-table3 "^0.6.0"
+    color-support "^1.1.1"
+    cross-argv "^2.0.0"
+    form-data "^4.0.0"
+    has-async-hooks "^1.0.0"
+    hdr-histogram-js "^3.0.0"
+    hdr-histogram-percentiles-obj "^3.0.0"
+    http-parser-js "^0.5.2"
+    hyperid "^3.0.0"
+    lodash.chunk "^4.2.0"
+    lodash.clonedeep "^4.5.0"
+    lodash.flatten "^4.4.0"
+    manage-path "^2.0.0"
+    on-net-listen "^1.1.1"
+    pretty-bytes "^5.4.1"
+    progress "^2.0.3"
+    reinterval "^1.1.0"
+    retimer "^3.0.0"
+    semver "^7.3.2"
+    subarg "^1.0.0"
+    timestring "^6.0.0"
+
+autocannon@^7.5.0:
   version "7.9.0"
   resolved "https://registry.yarnpkg.com/autocannon/-/autocannon-7.9.0.tgz#956be75b55e2145af35eb23ff3c66215e75fc0bc"
   integrity sha512-lPD88B8i5FMwK2NLFphj6F2Q40YQUHN2sJ+w6a4nzEfn+JMDKI/o3ViBrgamvFLE2EeQ1ZtcnYrBJj6mc9Uy6Q==
