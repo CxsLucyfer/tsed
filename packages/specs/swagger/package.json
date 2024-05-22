@@ -28,7 +28,7 @@
     "@tsed/openspec": "7.22.1",
     "filedirname": "^2.7.0",
     "fs-extra": "10.0.1",
-    "micromatch": "4.0.5",
+    "micromatch": "4.0.6",
     "swagger-ui-dist": "^4.5.2",
     "tslib": "2.5.0"
   },
