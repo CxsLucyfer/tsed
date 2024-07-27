@@ -72,7 +72,7 @@
     "react-dom": "^18.2.0",
     "semver": "^7.3.2",
     "slm": "^2.0.0",
-    "squirrelly": "^5.1.0",
+    "squirrelly": "^9.0.0",
     "swig": "^1.4.2",
     "swig-templates": "^2.0.3",
     "teacup": "^2.0.0",
