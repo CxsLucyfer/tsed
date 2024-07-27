@@ -45,7 +45,7 @@
     "@tsed/typescript": "7.22.1",
     "eslint": "^8.12.0",
     "express": "^4.17.1",
-    "socket.io": "4.4.1",
+    "socket.io": "4.6.2",
     "socket.io-client": "^4.1.2"
   },
   "peerDependencies": {
