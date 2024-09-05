@@ -33,7 +33,7 @@
     "@tsed/core": "7.22.1",
     "@tsed/di": "7.22.1",
     "@tsed/json-mapper": "7.22.1",
-    "@tsed/logger": "6.2.2",
+    "@tsed/logger": "6.7.0",
     "@tsed/platform-cache": "7.22.1",
     "@tsed/platform-params": "7.22.1",
     "@tsed/platform-router": "7.22.1",
@@ -41,7 +41,7 @@
     "@tsed/schema": "7.22.1",
     "@tsed/swagger": "7.22.1",
     "ajv": "^8.12.0",
-    "axios": "^1.3.0",
+    "axios": "^1.6.8",
     "read-pkg-up": "7.0.1"
   },
   "devDependencies": {
