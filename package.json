@@ -101,9 +101,9 @@
     "multer"
   ],
   "dependencies": {
-    "@tsed/logger": ">=6.2.2",
+    "@tsed/logger": ">=6.7.0",
     "ajv": "8.11.0",
-    "axios": "0.27.2",
+    "axios": "1.6.8",
     "barrelsby": "^2.3.2",
     "change-case": "4.1.2",
     "globby": "11.0.3",
