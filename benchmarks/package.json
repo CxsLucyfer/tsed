@@ -33,7 +33,7 @@
     "connect": "^3.6.6",
     "cors": "^2.8.5",
     "dns-prefetch-control": "^0.3.0",
-    "express": "^4.16.4",
+    "express": "^4.20.0",
     "fastify": "^3.29.4",
     "frameguard": "^4.0.0",
     "hide-powered-by": "^1.0.0",
@@ -52,8 +52,8 @@
     "x-xss-protection": "^2.0.0",
     "@nestjs/common": "8.4.3",
     "@nestjs/core": "9.0.5",
-    "@nestjs/platform-express": "8.4.3",
-    "@nestjs/platform-fastify": "8.4.3"
+    "@nestjs/platform-express": "10.4.2",
+    "@nestjs/platform-fastify": "10.4.2"
   },
   "devDependencies": {},
   "peerDependencies": {}
