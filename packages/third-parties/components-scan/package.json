@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@tsed/normalize-path": "7.22.1",
-    "globby": "11.0.3",
+    "globby": "14.1.0",
     "tslib": "2.5.0"
   },
   "devDependencies": {
