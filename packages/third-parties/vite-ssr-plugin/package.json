@@ -27,7 +27,7 @@
     "lint:fix": "eslint '**/*.{ts,js}' --fix"
   },
   "dependencies": {
-    "sirv": ">=2.0.2"
+    "sirv": ">=3.0.2"
   },
   "devDependencies": {
     "@tsed/common": "7.22.1",
